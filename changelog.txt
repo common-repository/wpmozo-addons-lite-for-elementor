@@ -1,0 +1,13 @@
+Changelog for WPMozo Addons Lite for Elementor
+
+2024-09-10 - Version 1.1.0
+- NEW: New widget Breadcrumb.
+- NEW: New widget Scroll Image.
+- NEW: New widget Separator.
+- NEW: New widget Star Rating.
+- NEW: New widget Text Animator.
+- NEW: New widget Text Highlighter.
+- FIXED: (Flip Box) Flip effect was not working properly on Google Chrome browser.
+
+2024-03-06 - Version 1.0.0
+- Initial release

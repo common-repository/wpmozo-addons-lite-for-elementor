@@ -1,0 +1,137 @@
+@font-face {
+    font-family: wpmozo;
+    src: url(../fonts/wpmozo.eot?ra8njx);
+    src: url(../fonts/wpmozo.eot?ra8njx#iefix) format("embedded-opentype"), url(../fonts/wpmozo.ttf?ra8njx) format("truetype"), url(../fonts/wpmozo.woff?ra8njx) format("woff"), url(../fonts/wpmozo.svg?ra8njx#wpmozo) format("svg");
+    font-weight: 400;
+    font-style: normal;
+    font-display: block;
+}
+.wpmozo-ae-brandicon::after,
+[class*="wpmozo-ae-icon-"] {
+    font-family: wpmozo !important;
+    speak: never;
+    font-style: normal;
+    font-weight: 400;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    font-size: 28px;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+.wpmozo-ae-icon-blog-timeline:before {
+    content: "\e916";
+}
+.wpmozo-ae-icon-business-hours:before {
+    content: "\e917";
+}
+.wpmozo-ae-icon-team-grid:before {
+    content: "\e914";
+}
+.wpmozo-ae-icon-advanced-tabs1:before {
+    content: "\e919";
+}
+.wpmozo-ae-icon-advanced-tabs:before {
+    content: "\e915";
+}
+.wpmozo-ae-icon-filterable-gallery:before {
+    content: "\e913";
+}
+.wpmozo-ae-icon-text-animator1:before {
+    content: "\e912";
+}
+.wpmozo-ae-icon-text-highlighter:before {
+    content: "\e91a";
+}
+.wpmozo-ae-icon-star-rating:before {
+    content: "\e91b";
+}
+.wpmozo-ae-icon-separator1:before {
+    content: "\e91c";
+}
+.wpmozo-ae-icon-separator:before {
+    content: "\e91f";
+}
+.wpmozo-ae-icon-scroll-image:before {
+    content: "\e923";
+}
+.wpmozo-ae-icon-modal-popup:before {
+    content: "\e924";
+}
+.wpmozo-ae-icon-breadcrumb:before {
+    content: "\e925";
+}
+.wpmozo-ae-icon-floating-image:before {
+    content: "\e90b";
+}
+.wpmozo-ae-icon-flip-box:before {
+    content: "\e910";
+}
+.wpmozo-ae-icon-logo-slider:before {
+    content: "\e90d";
+}
+.wpmozo-ae-icon-team-slider:before {
+    content: "\e90e";
+}
+.wpmozo-ae-icon-fancy-heading:before {
+    content: "\e90f";
+}
+.wpmozo-ae-icon-fancy-text:before {
+    content: "\e911";
+}
+.wpmozo-ae-icon-interactive-image-card:before {
+    content: "\e90a";
+}
+.wpmozo-ae-icon-image-card:before {
+    content: "\e90c";
+}
+.wpmozo-ae-icon-advanced-blog:before {
+    content: "\e902";
+}
+.wpmozo-ae-icon-product-carousel:before {
+    content: "\e905";
+}
+.wpmozo-ae-icon-product-grid:before {
+    content: "\e922";
+}
+.wpmozo-ae-icon-timeline:before {
+    content: "\e918";
+}
+.wpmozo-ae-icon-pricing-table:before {
+    content: "\e91e";
+}
+.wpmozo-ae-icon-image-hotspot:before {
+    content: "\e920";
+}
+.wpmozo-ae-icon-masonry-gallery:before {
+    content: "\e921";
+}
+.wpmozo-ae-icon-image-magnifier:before {
+    content: "\e909";
+}
+.wpmozo-ae-icon-bar-counter:before {
+    content: "\e903";
+}
+.wpmozo-ae-icon-tilt-image:before {
+    content: "\e904";
+}
+.wpmozo-ae-icon-instagram:before {
+    content: "\e906";
+}
+.wpmozo-ae-icon-before-after-slider:before {
+    content: "\e907";
+}
+.wpmozo-ae-icon-content-toggle:before {
+    content: "\e908";
+}
+.wpmozo-ae-icon-ajax-search:before {
+    content: "\e901";
+}
+.wpmozo-ae-brandicon:after {
+    font-size: 22px;
+    content: "\e900";
+    color: #00de7c;
+    position: absolute;
+    top: 0;
+    right: 3%;
+}
